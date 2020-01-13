@@ -13,6 +13,8 @@ target = iris.target
 # 划分训练数据和测试数据
 X_train, X_test, y_train, y_test = train_test_split(data, target, test_size=0.2)
 
+
+"""
 # 模型训练
 gbm = LGBMClassifier(num_leaves=31, learning_rate=0.05, n_estimators=20)
 gbm.fit(X_train, y_train, eval_set=[(X_test, y_test)], early_stopping_rounds=5)
@@ -40,3 +42,4 @@ param_grid = {
 gbm = GridSearchCV(estimator, param_grid)
 gbm.fit(X_train, y_train)
 print('Best parameters found by grid search are:', gbm.best_params_)
+"""
