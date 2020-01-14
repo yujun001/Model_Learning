@@ -11,36 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Model_Learning$original_LightGBM_classification.coverage" NAME="original_LightGBM_classification Coverage Results" MODIFIED="1578904097104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ensemble Learning/LightGBM" />
+    <SUITE FILE_PATH="coverage/Model_Learning$original_LightGBM_classification.coverage" NAME="original_LightGBM_classification Coverage Results" MODIFIED="1578989292413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ensemble Learning/LightGBM" />
     <SUITE FILE_PATH="coverage/Model_Learning$sklearn_LightGBM_classification.coverage" NAME="sklearn_LightGBM_classification Coverage Results" MODIFIED="1578904031442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ensemble Learning/LightGBM" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ensemble Learning/LightGBM/sklearn_LightGBM_classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ensemble Learning/LightGBM/original_LightGBM_classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,11 +27,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="207" />
-    <option name="y" value="23" />
-    <option name="width" value="1044" />
-    <option name="height" value="785" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="360" />
+    <option name="y" value="26" />
+    <option name="width" value="1201" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -70,24 +45,6 @@
             <path>
               <item name="Model_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Model_Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Model_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Model_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Ensemble Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Model_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Model_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Ensemble Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="LightGBM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Model_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Model_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Ensemble Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="LightGBM" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Model_Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -180,17 +137,17 @@
       <option name="presentableId" value="Default" />
       <updated>1578903362181</updated>
       <workItem from="1578903363637" duration="2790000" />
-      <workItem from="1578914964175" duration="2344000" />
+      <workItem from="1578914964175" duration="3541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5134000" />
+    <option name="totallyTimeSpent" value="6331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="360" y="26" width="1201" height="789" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2360515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2640207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,8 +161,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.57710844" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21664275" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.07604017" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ensemble Learning/LightGBM/original_LightGBM_classification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="630">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
